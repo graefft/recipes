@@ -58,6 +58,7 @@ const SLink = styled(NavLink)`
 
   &.active {
     background: linear-gradient(to right, #f27122, #e95078);
+    
   }
 `
 export default Category
